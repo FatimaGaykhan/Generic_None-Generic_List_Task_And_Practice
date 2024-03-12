@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{723662E8-B4F7-4FD2-B54D-A86D2276618F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Generic__Practise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generic_Practise/Program.cs">
+    <Files>
+      <File FileName="Generic_Practise/Repository.cs" Line="4" Column="120" />
+      <File FileName="Generic_Practise/Program.cs" Line="180" Column="4" />
+      <File FileName="Generic_Practise/Book.cs" Line="9" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generic_Practise" expanded="True">
+            <Node name="Generic_Practise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
